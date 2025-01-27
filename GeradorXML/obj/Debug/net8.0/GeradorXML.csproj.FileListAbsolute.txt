@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\GeradorXML\GeradorXML\bin\Debug\net8.0\GeradorXML.exe
+C:\Users\User\source\repos\GeradorXML\GeradorXML\bin\Debug\net8.0\GeradorXML.deps.json
+C:\Users\User\source\repos\GeradorXML\GeradorXML\bin\Debug\net8.0\GeradorXML.runtimeconfig.json
+C:\Users\User\source\repos\GeradorXML\GeradorXML\bin\Debug\net8.0\GeradorXML.dll
+C:\Users\User\source\repos\GeradorXML\GeradorXML\bin\Debug\net8.0\GeradorXML.pdb
+C:\Users\User\source\repos\GeradorXML\GeradorXML\obj\Debug\net8.0\GeradorXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\GeradorXML\GeradorXML\obj\Debug\net8.0\GeradorXML.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GeradorXML\GeradorXML\obj\Debug\net8.0\GeradorXML.AssemblyInfo.cs
+C:\Users\User\source\repos\GeradorXML\GeradorXML\obj\Debug\net8.0\GeradorXML.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GeradorXML\GeradorXML\obj\Debug\net8.0\GeradorXML.dll
+C:\Users\User\source\repos\GeradorXML\GeradorXML\obj\Debug\net8.0\refint\GeradorXML.dll
+C:\Users\User\source\repos\GeradorXML\GeradorXML\obj\Debug\net8.0\GeradorXML.pdb
+C:\Users\User\source\repos\GeradorXML\GeradorXML\obj\Debug\net8.0\GeradorXML.genruntimeconfig.cache
+C:\Users\User\source\repos\GeradorXML\GeradorXML\obj\Debug\net8.0\ref\GeradorXML.dll
