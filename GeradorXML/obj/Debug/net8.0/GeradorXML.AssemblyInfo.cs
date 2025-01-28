@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeradorXML")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b71877d066a7610256517998cf7021e89cb172a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeradorXML")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeradorXML")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

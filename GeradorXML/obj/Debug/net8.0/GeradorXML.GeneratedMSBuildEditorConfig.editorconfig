@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GeradorXML
-build_property.ProjectDir = C:\Users\User\source\repos\GeradorXML\GeradorXML\
+build_property.ProjectDir = C:\Users\User\Documents\Sources\CSharp\GeradorXML\GeradorXML\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

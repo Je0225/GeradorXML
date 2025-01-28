@@ -3,24 +3,28 @@
 
 Xml xml = new Xml();
 
-ObjectModel giovano = xml.AddObjeto("pessoa");
-giovano.AddAtributo("nome", "giovano");
-giovano.AddAtributo("foda", true);
-giovano.AddAtributo("teste", null);
-ObjectModel numerosMegasena = giovano.AddObjeto("megasena");
-numerosMegasena.AddAtributo("Numero",10);
-numerosMegasena.AddAtributo("Numero",26);
-numerosMegasena.AddAtributo("Numero",29);
-numerosMegasena.AddAtributo("Numero",33);
-numerosMegasena.AddAtributo("Numero",52);
-numerosMegasena.AddAtributo("Numero",58);
-ObjectModel provas = xml.AddObjeto("provas");
-ObjectModel provaPt = provas.AddObjeto("provaPort");
-provaPt.AddAtributo("nome", "portugues");
-provaPt.AddAtributo("nota", 9.5);
-ObjectModel provaMat = provas.AddObjeto("ProvaMat");
-provaMat.AddAtributo("nome", "matematica");
-provaMat.AddAtributo("nota", 9);
+ElementModel teste = xml.AddElemento("teste");
+ElementModel giovano = xml.AddElemento("pessoa");
+giovano.AddAtributo("ID", 10);
+ElementModel atrib = giovano.AddElemento("nome", "giovano");
+atrib.AddAtributo("dev", "delphi");
+giovano.AddElemento("foda", true);
+giovano.AddElemento("teste", null);
+giovano.AddElemento("outroTeste");
+ElementModel numerosMegasena = giovano.AddElemento("megasena");
+numerosMegasena.AddElemento("Numero",10);
+numerosMegasena.AddElemento("Numero",26);
+numerosMegasena.AddElemento("Numero",29);
+numerosMegasena.AddElemento("Numero",33);
+numerosMegasena.AddElemento("Numero",52);
+numerosMegasena.AddElemento("Numero",58);
+ElementModel provas = xml.AddElemento("provas");
+ElementModel provaPt = provas.AddElemento("provaPort");
+provaPt.AddElemento("nome", "portugues");
+provaPt.AddElemento("nota", 9.5);
+ElementModel provaMat = provas.AddElemento("ProvaMat");
+provaMat.AddElemento("nome", "matematica");
+provaMat.AddElemento("nota", 9);
 
 Console.WriteLine(xml.AsString());
 

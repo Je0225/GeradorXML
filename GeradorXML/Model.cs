@@ -9,33 +9,22 @@ namespace GeradorXML {
 
     protected virtual String? Nome { get; init; }
 
-    protected String Abertura => $"<{Nome}>";
+    public virtual Object? Valor { get; init; }
 
-    protected String Fechamento => $"</{Nome}>";
+    protected List<ElementModel> Elementos { get; init; }
 
-    protected List<Model> Elementos { get; init; }
-
-    protected Model(String nome, Object valor) {
-      Elementos = new List<Model>();
+    protected Model(String nome, Object? valor) {
+      Elementos = new List<ElementModel>();
       Nome = nome;
-    }
-
-    protected Model(String nome) {
-      Elementos = new List<Model>();
-      Nome = nome;
+      Valor = valor;
     }
 
     protected Model() {
-      Elementos = new List<Model>();
+      Elementos = new List<ElementModel>();
     }
 
-    public void AddAtributo(String nome, Object value) {
-      PropertyModel property = new PropertyModel(nome, value);
-      Elementos.Add(property);
-    }
-
-    public ObjectModel AddObjeto(String nome) {
-      ObjectModel objeto = new ObjectModel(nome);
+    public ElementModel AddElemento(String nome, Object? value = null) {
+      ElementModel objeto = new ElementModel(nome, value);
       Elementos.Add(objeto);
       return objeto;
     }

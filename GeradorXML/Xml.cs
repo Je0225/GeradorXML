@@ -7,12 +7,10 @@ using System.Threading.Tasks;
 
 namespace GeradorXML {
 
-  internal class Xml : ObjectModel {
+  internal class Xml : ElementModel {
 
     protected override String Nome => "xml";
-
     public Xml(): base() { }
-
     public override String AsString() {
       String texto = "";
       foreach (Model elemento in Elementos) {

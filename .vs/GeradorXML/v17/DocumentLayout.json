@@ -1,25 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\GeradorXML\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Sources\\CSharp\\GeradorXML\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A667B3B-3DE5-40A2-B9DB-B52E257F90B5}|GeradorXML\\GeradorXML.csproj|c:\\users\\user\\source\\repos\\geradorxml\\geradorxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A667B3B-3DE5-40A2-B9DB-B52E257F90B5}|GeradorXML\\GeradorXML.csproj|solutionrelative:geradorxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A667B3B-3DE5-40A2-B9DB-B52E257F90B5}|GeradorXML\\GeradorXML.csproj|c:\\users\\user\\source\\repos\\geradorxml\\geradorxml\\xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A667B3B-3DE5-40A2-B9DB-B52E257F90B5}|GeradorXML\\GeradorXML.csproj|c:\\users\\user\\documents\\sources\\csharp\\geradorxml\\geradorxml\\xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A667B3B-3DE5-40A2-B9DB-B52E257F90B5}|GeradorXML\\GeradorXML.csproj|solutionrelative:geradorxml\\xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A667B3B-3DE5-40A2-B9DB-B52E257F90B5}|GeradorXML\\GeradorXML.csproj|c:\\users\\user\\source\\repos\\geradorxml\\geradorxml\\objectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A667B3B-3DE5-40A2-B9DB-B52E257F90B5}|GeradorXML\\GeradorXML.csproj|solutionrelative:geradorxml\\objectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A667B3B-3DE5-40A2-B9DB-B52E257F90B5}|GeradorXML\\GeradorXML.csproj|c:\\users\\user\\documents\\sources\\csharp\\geradorxml\\geradorxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A667B3B-3DE5-40A2-B9DB-B52E257F90B5}|GeradorXML\\GeradorXML.csproj|solutionrelative:geradorxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A667B3B-3DE5-40A2-B9DB-B52E257F90B5}|GeradorXML\\GeradorXML.csproj|c:\\users\\user\\source\\repos\\geradorxml\\geradorxml\\propertymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A667B3B-3DE5-40A2-B9DB-B52E257F90B5}|GeradorXML\\GeradorXML.csproj|solutionrelative:geradorxml\\propertymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A667B3B-3DE5-40A2-B9DB-B52E257F90B5}|GeradorXML\\GeradorXML.csproj|c:\\users\\user\\source\\repos\\geradorxml\\geradorxml\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A667B3B-3DE5-40A2-B9DB-B52E257F90B5}|GeradorXML\\GeradorXML.csproj|c:\\users\\user\\documents\\sources\\csharp\\geradorxml\\geradorxml\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A667B3B-3DE5-40A2-B9DB-B52E257F90B5}|GeradorXML\\GeradorXML.csproj|solutionrelative:geradorxml\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,64 +35,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ObjectModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GeradorXML\\GeradorXML\\ObjectModel.cs",
-              "RelativeDocumentMoniker": "GeradorXML\\ObjectModel.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\GeradorXML\\GeradorXML\\ObjectModel.cs",
-              "RelativeToolTip": "GeradorXML\\ObjectModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T18:06:18.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PropertyModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GeradorXML\\GeradorXML\\PropertyModel.cs",
-              "RelativeDocumentMoniker": "GeradorXML\\PropertyModel.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\GeradorXML\\GeradorXML\\PropertyModel.cs",
-              "RelativeToolTip": "GeradorXML\\PropertyModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T18:06:03.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Model.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GeradorXML\\GeradorXML\\Model.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Sources\\CSharp\\GeradorXML\\GeradorXML\\Model.cs",
               "RelativeDocumentMoniker": "GeradorXML\\Model.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\GeradorXML\\GeradorXML\\Model.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Sources\\CSharp\\GeradorXML\\GeradorXML\\Model.cs",
               "RelativeToolTip": "GeradorXML\\Model.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T18:00:11.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Xml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GeradorXML\\GeradorXML\\Xml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Sources\\CSharp\\GeradorXML\\GeradorXML\\Xml.cs",
               "RelativeDocumentMoniker": "GeradorXML\\Xml.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\GeradorXML\\GeradorXML\\Xml.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Sources\\CSharp\\GeradorXML\\GeradorXML\\Xml.cs",
               "RelativeToolTip": "GeradorXML\\Xml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T17:59:56.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GeradorXML\\GeradorXML\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Sources\\CSharp\\GeradorXML\\GeradorXML\\Program.cs",
               "RelativeDocumentMoniker": "GeradorXML\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\GeradorXML\\GeradorXML\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Sources\\CSharp\\GeradorXML\\GeradorXML\\Program.cs",
               "RelativeToolTip": "GeradorXML\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T17:56:30.769Z",
               "EditorCaption": ""
