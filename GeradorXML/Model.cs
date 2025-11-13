@@ -1,15 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace GeradorXML {
+﻿namespace GeradorXML {
   public abstract class Model {
 
     protected virtual String? Nome { get; init; }
 
-    public virtual Object? Valor { get; init; }
+    protected  Object? Valor { get; init; }
 
     protected List<ElementModel> Elementos { get; init; }
 
